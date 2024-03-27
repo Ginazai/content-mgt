@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" xmlns:th="http://www.thymeleaf.org">
+  <head>
+    <meta charset="UTF-8">
+    <title th:text="${titulo}"></title>
+    <link rel="shortcut icon" type="image/png" th:href="@{images/cropped-header_logo-1-150x150.png}" size="32x32" />
+    <th:Block th:insert="~{/layout/fragments_layout/resources}"></th:Block>
+  </head>
+  <body>
+  <!---------------------- navabar -------------------------->
+  <th:Block th:insert="~{/layout/fragments_layout/navbar_layout}"></th:Block>
+  <!---------------------- navabar -------------------------->
+  
+  <!----------------------- carousel ------------------------>
+    <th:Block th:insert="~{/layout/fragments_layout/carousel}"></th:Block>
+  <!----------------------- carousel ------------------------>
+
+<!-- Content -->
+<div class="container">
+
+<!--------------------- noticias seccion ----------------------->
+ <th:Block th:insert="~{/layout/fragments_layout/noticias_layout}"></th:Block>
+ <!--------------------- noticias seccion ----------------------->
+ 
+ <!--------------------- eventos seccion ----------------------->
+<th:Block th:insert="~{/layout/fragments_layout/eventos_layout}"></th:Block>
+ <!--------------------- eventos seccion ----------------------->
+ 
+  <!--------------------- junta seccion ----------------------->
+  <th:Block th:insert="~{/layout/fragments_layout/junta_layout}"></th:Block>
+   <!--------------------- junta seccion ----------------------->
+   
+   <!---------------------------- Accordion -------------------------->
+<th:Block th:insert="~{/layout/fragments_layout/accordion}"></th:Block>
+<!---------------------------- Accordion -------------------------->
+</div>
+<!-- Content -->
+<!------------------------------------------------ Footer -------------------------------->
+<th:Block th:insert="~{/layout/fragments_layout/footer_layout}"></th:Block>
+<!------------------------------------------------ Footer -------------------------------->
+
+<!-------------------------------- Login Modal ------------------------------------------->
+<th:Block th:insert="~{/layout/fragments_layout/login_modal_layout}"></th:Block>
+<!-------------------------------- Login Modal ------------------------------------------->
+
+<!--------------------------------- Signup Modal ----------------------------------------->
+<th:Block th:insert="~{/layout/fragments_layout/register_modal_layout}"></th:Block>
+<!--------------------------------- Signup Modal ----------------------------------------->
+<script type="text/javascript" src="js/popper.js"></script>
+<script type="text/javascript" src="js/popper.js.map"></script>
+<script type="text/javascript" src="js/bootstrap.bundle.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.bundle.min.js.map"></script>
+  </body>
+</html>

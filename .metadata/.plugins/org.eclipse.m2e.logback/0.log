@@ -1,0 +1,88 @@
+2023-11-08 20:10:22,344 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-08 20:10:41,597 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ul.programacionVII:Admin-IEEELatina:0.0.1-SNAPSHOT @ D:\Users\FakeR\eclipse-workspace\spring-workspaces\proyecto-final\Admin-IEEELatina\pom.xml.
+2023-11-08 20:10:43,300 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-08 20:10:43,416 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2074 resources from src\main\resources to target\classes
+2023-11-08 20:10:44,410 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\FakeR\eclipse-workspace\spring-workspaces\proyecto-final\Admin-IEEELatina\src\test\resources
+2023-11-08 20:10:48,606 [Worker-12: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.dashboard:dashboard:0.0.1-SNAPSHOT @ D:\Users\FakeR\eclipse-workspace\spring-workspaces\proyecto-final\Dashboard-BETA\pom.xml.
+2023-11-08 20:10:50,556 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-08 20:10:50,582 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2131 resources from src\main\resources to target\classes
+2023-11-08 20:10:51,641 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\FakeR\eclipse-workspace\spring-workspaces\proyecto-final\Dashboard-BETA\src\test\resources
+2023-11-08 20:10:59,821 [Worker-18: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ul.programacionVII:Web-IEEELatina:0.0.1-SNAPSHOT @ D:\Users\FakeR\eclipse-workspace\spring-workspaces\proyecto-final\Web-IEEELatina\pom.xml.
+2023-11-08 20:11:00,921 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-08 20:11:00,954 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 42 resources from src\main\resources to target\classes
+2023-11-08 20:11:00,984 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\FakeR\eclipse-workspace\spring-workspaces\proyecto-final\Web-IEEELatina\src\test\resources
+2023-11-08 20:11:33,822 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-11-08 20:11:35,972 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ul.programacionVII:Admin-IEEELatina:0.0.1-SNAPSHOT @ D:\Users\FakeR\eclipse-workspace\spring-workspaces\proyecto-final\Admin-IEEELatina\pom.xml.
+2023-11-08 20:11:36,571 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.dashboard:dashboard:0.0.1-SNAPSHOT @ D:\Users\FakeR\eclipse-workspace\spring-workspaces\proyecto-final\Dashboard-BETA\pom.xml.
+2023-11-08 20:11:36,857 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ul.programacionVII:Web-IEEELatina:0.0.1-SNAPSHOT @ D:\Users\FakeR\eclipse-workspace\spring-workspaces\proyecto-final\Web-IEEELatina\pom.xml.
+2023-11-08 20:11:38,572 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Admin-IEEELatina/src/main/java
+2023-11-08 20:11:38,573 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Admin-IEEELatina/src/main/resources
+2023-11-08 20:11:38,587 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Admin-IEEELatina/src/main/resources
+2023-11-08 20:11:38,604 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Admin-IEEELatina/src/test/java
+2023-11-08 20:11:38,605 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Admin-IEEELatina/src/test/resources
+2023-11-08 20:11:38,605 [Worker-12: Updating Maven Project] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-17', falling back to workspace default
+2023-11-08 20:11:40,334 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Dashboard-BETA/src/main/java
+2023-11-08 20:11:40,334 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Dashboard-BETA/src/main/resources
+2023-11-08 20:11:40,351 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Dashboard-BETA/src/main/resources
+2023-11-08 20:11:40,367 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Dashboard-BETA/src/test/java
+2023-11-08 20:11:40,367 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Dashboard-BETA/src/test/resources
+2023-11-08 20:11:40,367 [Worker-12: Updating Maven Project] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-17', falling back to workspace default
+2023-11-08 20:11:40,925 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Web-IEEELatina/src/main/java
+2023-11-08 20:11:40,926 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Web-IEEELatina/src/main/resources
+2023-11-08 20:11:40,926 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Web-IEEELatina/src/main/resources
+2023-11-08 20:11:40,926 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Web-IEEELatina/src/test/java
+2023-11-08 20:11:40,927 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Web-IEEELatina/src/test/resources
+2023-11-08 20:11:40,927 [Worker-12: Updating Maven Project] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-17', falling back to workspace default
+2023-11-08 20:11:44,448 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 3 poms: local refresh takes 1.00 sec, refresh facades takes 3.00 sec, update config takes 3.00 sec 
+2023-11-08 20:11:45,338 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-08 20:11:45,374 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2074 resources from src\main\resources to target\classes
+2023-11-08 20:12:02,313 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\FakeR\eclipse-workspace\spring-workspaces\proyecto-final\Admin-IEEELatina\src\test\resources
+2023-11-08 20:12:03,869 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-08 20:12:03,906 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2131 resources from src\main\resources to target\classes
+2023-11-08 20:12:15,558 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\FakeR\eclipse-workspace\spring-workspaces\proyecto-final\Dashboard-BETA\src\test\resources
+2023-11-08 20:12:16,766 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-08 20:12:16,787 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 42 resources from src\main\resources to target\classes
+2023-11-08 20:12:16,938 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\FakeR\eclipse-workspace\spring-workspaces\proyecto-final\Web-IEEELatina\src\test\resources
+2023-11-16 21:10:57,885 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-21 18:07:26,280 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-21 18:10:23,890 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-21 18:10:40,834 [Worker-5: Launching Dashboard-BETA - DashboardBetaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-21 18:10:40,894 [Worker-5: Launching Dashboard-BETA - DashboardBetaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2131 resources from src\main\resources to target\classes
+2023-11-21 18:10:54,277 [Worker-5: Launching Dashboard-BETA - DashboardBetaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\FakeR\eclipse-workspace\spring-workspaces\proyecto-final\Dashboard-BETA\src\test\resources
+2023-11-21 18:11:07,602 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-21 18:11:07,697 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2074 resources from src\main\resources to target\classes
+2023-11-21 18:11:21,058 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\FakeR\eclipse-workspace\spring-workspaces\proyecto-final\Admin-IEEELatina\src\test\resources
+2023-11-21 18:11:24,574 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-21 18:11:24,608 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 42 resources from src\main\resources to target\classes
+2023-11-21 18:11:24,766 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\FakeR\eclipse-workspace\spring-workspaces\proyecto-final\Web-IEEELatina\src\test\resources
+2023-11-21 18:15:07,300 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-28 22:12:26,997 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-12-28 22:12:57,443 [Worker-10: Launching Admin-IEEELatina - AdminIeeeLatinaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 22:12:57,481 [Worker-10: Launching Admin-IEEELatina - AdminIeeeLatinaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2074 resources from src\main\resources to target\classes
+2023-12-28 22:13:08,933 [Worker-10: Launching Admin-IEEELatina - AdminIeeeLatinaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\FakeR\eclipse-workspace\spring-workspaces\proyecto-final\Admin-IEEELatina\src\test\resources
+2023-12-28 22:13:16,381 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 22:13:16,444 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2131 resources from src\main\resources to target\classes
+2023-12-28 22:13:24,638 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\FakeR\eclipse-workspace\spring-workspaces\proyecto-final\Dashboard-BETA\src\test\resources
+2023-12-28 22:13:26,821 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-28 22:13:26,845 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 42 resources from src\main\resources to target\classes
+2023-12-28 22:13:26,992 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\FakeR\eclipse-workspace\spring-workspaces\proyecto-final\Web-IEEELatina\src\test\resources
+2024-01-02 22:32:34,620 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-01-02 22:33:28,241 [Worker-20: Launching Admin-IEEELatina - AdminIeeeLatinaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-02 22:33:28,282 [Worker-20: Launching Admin-IEEELatina - AdminIeeeLatinaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2074 resources from src\main\resources to target\classes
+2024-01-02 22:33:39,683 [Worker-20: Launching Admin-IEEELatina - AdminIeeeLatinaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\FakeR\eclipse-workspace\spring-workspaces\proyecto-final\Admin-IEEELatina\src\test\resources
+2024-01-02 22:33:46,604 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-02 22:33:46,640 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2131 resources from src\main\resources to target\classes
+2024-01-02 22:33:55,757 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\FakeR\eclipse-workspace\spring-workspaces\proyecto-final\Dashboard-BETA\src\test\resources
+2024-01-02 22:33:58,102 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-02 22:33:58,121 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 42 resources from src\main\resources to target\classes
+2024-01-02 22:33:58,275 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\FakeR\eclipse-workspace\spring-workspaces\proyecto-final\Web-IEEELatina\src\test\resources
+2024-01-02 22:45:43,559 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-02 22:45:43,788 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-02 22:45:43,791 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\FakeR\eclipse-workspace\spring-workspaces\proyecto-final\Dashboard-BETA\src\test\resources
+2024-01-02 22:45:53,460 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-02 22:45:53,668 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-02 22:45:53,671 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\FakeR\eclipse-workspace\spring-workspaces\proyecto-final\Dashboard-BETA\src\test\resources
+2024-01-29 21:20:22,791 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-02-14 20:12:42,106 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-27 10:17:44,138 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-27 10:22:40,996 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
